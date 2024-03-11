@@ -1,0 +1,4 @@
+0 Recyclable
+1 Non Recyclable
+2 Hazardous
+3 Organic
